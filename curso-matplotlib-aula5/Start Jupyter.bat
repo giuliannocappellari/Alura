@@ -1,0 +1,1 @@
+conda activate machine_learning && jupyter notebook
